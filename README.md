@@ -21,4 +21,4 @@ On the Chrome Extensions page, check the Developer mode box. New buttons will be
 # Use Extension in Linkedin
 1. Open Linkedin, search for a keyword (eg : Devops engineer).
 2. Click on the extensions icon, on your left bottom, you will see a window where you will see a "Start Sending requests" option. Click that.
-3. This will start sending requests in a loop. You can clikc on "Stop sending requests" when you would like to stop.
+3. This will start sending requests in a loop. You can click on "Stop sending requests" when you would like to stop.
