@@ -1,6 +1,6 @@
 # LinkedinAutoConnect
 
-#Install method
+# Install method
 Method 1 : 
 1. Download the zip folder or clone the repository as shown below:![image](https://github.com/user-attachments/assets/305b5102-ad3c-42bf-b5f0-a59256a6ae01) For cloning the repo you can use this command : git clone https://github.com/srishtic16/LinkedinAutoConnect.git
 2. Unzip the folder and find the Extensions.crx file inside. 
@@ -18,7 +18,7 @@ On the Chrome Extensions page, check the Developer mode box. New buttons will be
 4. Click on Load Unpacked button. Select the Extensions folder and click "Open".
 5. Now, your extension is loaded in your chrome and you can use it. Please follow the steps mentioned below to use it on Linkedin.
 
-#Use Extension in Linkedin
+# Use Extension in Linkedin
 1. Open Linkedin, search for a keyword (eg : Devops engineer).
 2. Click on the extensions icon, on your left bottom, you will see a window where you will see a "Start Sending requests" option. Click that.
 3. This will start sending requests in a loop. You can clikc on "Stop sending requests" when you would like to stop.
