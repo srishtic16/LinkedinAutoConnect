@@ -1,0 +1,17 @@
+The goal was to create a Chrome extension that automates sending connection requests on LinkedIn and provides a real-time user interface (UI) to track the progress. The key challenges included:
+
+1. Interacting with LinkedIn's DOM elements.
+2. Keeping the user informed in real time through both a popup and an overlay UI.
+3. Providing controls like Start and Stop to manage the operation dynamically.
+
+The design was split into modular components based on Chrome's extension architecture:
+
+Popup: Provides a user interface accessible from the browser's toolbar.
+Content Script: Executes in the context of LinkedIn pages to interact with the DOM.
+Background Script : Manages communication between the popup and the content script.
+Manifest File: Defines the structure, permissions, and scope of the extension.
+
+
+
+
+
