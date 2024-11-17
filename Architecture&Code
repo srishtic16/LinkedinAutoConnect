@@ -11,6 +11,18 @@ Content Script: Executes in the context of LinkedIn pages to interact with the D
 Background Script : Manages communication between the popup and the content script.
 Manifest File: Defines the structure, permissions, and scope of the extension.
 
+-> The popup serves as a control center where the user can:
+
+    Start or stop the automation.
+    View the current count of connection requests sent
+
+-> The content script directly manipulates LinkedIn's webpage to:
+
+    Identify "Connect" buttons on the search results page.
+    Programmatically click these buttons and handle follow-up dialogs.
+    Provide real-time feedback to the overlay.
+
+
 
 
 
